@@ -24,7 +24,7 @@ System Components
 ### 1.Add_Sale: Records a sale transaction and updates inventory.
 ### 2.Generate_Sales_Report: Generates a summary of total sales and revenue per produce.
 ### 3.Restock_Inventory: Restocks inventory for a given produce by adding new stock or updating existing stock.
-Triggers:
+## Triggers:
 
 ### 1.Update_Inventory_After_Sale: Automatically updates the inventory after a sale is made.
 ### 2.Low_Stock_Alert: Sends an alert if stock for a particular produce goes below a certain threshold.
